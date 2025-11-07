@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<title type="text">Veralogix Group</title>
+	<subtitle type="text">Veralogix Group</subtitle>
+	<link rel="alternate" type="text/html" href="https://veralogixjoomla.cpdemo.co.za"/>
+	<id>https://veralogixjoomla.cpdemo.co.za/index.php/en/component/content/category/blog</id>
+	<updated>2025-11-07T02:33:56+00:00</updated>
+	<author>
+		<name>Organico</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://veralogixjoomla.cpdemo.co.za/index.php/en/component/content/category/blog?format=feed&amp;type=atom&amp;Itemid=288"/>
+	<entry>
+		<title>Strengthen the American agricultural economy</title>
+		<link rel="alternate" type="text/html" href="https://veralogixjoomla.cpdemo.co.za/index.php/en/component/content/article/strengthen-the-american-agricultural-economy?catid=2&amp;Itemid=288"/>
+		<published>2022-04-06T05:43:53+00:00</published>
+		<updated>2022-04-06T05:43:53+00:00</updated>
+		<id>https://veralogixjoomla.cpdemo.co.za/index.php/en/component/content/article/strengthen-the-american-agricultural-economy?catid=2&amp;Itemid=288</id>
+		<author>
+			<name>Victoria Anderson</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://veralogixjoomla.cpdemo.co.za//images/hoach-le-dinh-PeRt3uMmjYM-unsplash.jpg&quot; alt=&quot;&quot; width=&quot;1920&quot; height=&quot;1281&quot; loading=&quot;lazy&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;We maintain a strong and appropriate safety net for America's farmers, ranchers and growers which includes assistance to struggling industries, disaster assistance.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://veralogixjoomla.cpdemo.co.za//images/hoach-le-dinh-PeRt3uMmjYM-unsplash.jpg&quot; alt=&quot;&quot; width=&quot;1920&quot; height=&quot;1281&quot; loading=&quot;lazy&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;We maintain a strong and appropriate safety net for America's farmers, ranchers and growers which includes assistance to struggling industries, disaster assistance.&lt;/p&gt;
+</content>
+		<category term="Blog" />
+	</entry>
+</feed>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/media/com_hikashop/css/hikashop.css?v=502" type="text/css"?>
+<?xml-stylesheet href="/media/com_hikashop/css/frontend_default.css?t=1701844358" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Veralogix Group</title>
+		<description><![CDATA[Veralogix Group]]></description>
+		<link>https://veralogixjoomla.cpdemo.co.za</link>
+		<lastBuildDate>Fri, 07 Nov 2025 02:33:52 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://veralogixjoomla.cpdemo.co.za/index.php/en/component/hikashop/product/listing/type-rss?format=feed"/>
+		<language>en-gb</language>
+		<item>
+			<title>Sports subscription</title>
+			<link>https://veralogixjoomla.cpdemo.co.za/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=126&amp;name=sports-subscription&amp;Itemid=&amp;category_pathway=</link>
+			<guid isPermaLink="true">https://veralogixjoomla.cpdemo.co.za/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=126&amp;name=sports-subscription&amp;Itemid=&amp;category_pathway=</guid>
+			<description><![CDATA[<table><tr><td><img src="https://veralogixjoomla.cpdemo.co.za/media/com_hikashop/images/barcode.png"/></td><td><p>You want to subscribe to our Sport center and enjoy many activities at your own rhythm : SPORT, DANCE, GYM, SPA and RELAXATION.</p>
+<p>Please fill this form to complete your profile and choose your favourite options.</p>
+<p><span id="result_box" class="short_text" lang="en"><span class="hps"><span id="result_box" class="short_text" lang="en"><span class="hps">ONE formula, </span>ONE price <span class="hps">to keep your fitness</span></span></span><span class="hps"> : </span></span><span id="result_box" class="short_text" lang="en"><span class="hps"><strong>450â¬ for one 1 year with an unlimited access to all activities</strong>. <br /></span></span></p>Price : 450,00 €</td></tr></table>]]></description>
+			<pubDate>Mon, 21 Jul 2014 15:14:30 +0000</pubDate>
+		</item>
+		<item>
+			<title>Donation</title>
+			<link>https://veralogixjoomla.cpdemo.co.za/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=125&amp;name=donation&amp;Itemid=&amp;category_pathway=</link>
+			<guid isPermaLink="true">https://veralogixjoomla.cpdemo.co.za/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=125&amp;name=donation&amp;Itemid=&amp;category_pathway=</guid>
+			<description><![CDATA[<table><tr><td><img src="https://veralogixjoomla.cpdemo.co.za/media/com_hikashop/images/barcode.png"/></td><td><p>If you want to make a donation, feel free to write the amount you want to give, in this page.</p>
+<p>We will be very thankful !</p>
+<p>Â </p>
+<div style="border-top: 1px solid #ddd; padding: 10px 0px;">
+<p><strong>How this donation page works ?</strong></p>
+<p>The user writes here the amount he wants to give (in other words : a sum to delete from his account), clicks on the button "add to cart", then enters his information and the money will be deleted from his bank account.<br /> <br /> This page is done thanks to a price quantity override plugin which modifies the price of the product based on a custom item field (the donation input field of that page). <br /><br /> The donation plugin is already installed by default with the Business edition of HikaShop. You can find it in the folder plugins/system/custom_price of your website if you want to see its code. Via your back-end, publish the <strong>plugin</strong> entitled "<strong>donation</strong>". Then you will have to create a <strong>custom field</strong> of the table "<strong>item</strong>" with the column name "<strong>amount</strong>" in order to use it.</p>
+<p><br />You can take example on our backend setup of this product and custom field in order to get the same result on your end.</p>
+</div>Free</td></tr></table>]]></description>
+			<pubDate>Mon, 21 Jul 2014 13:46:34 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gift Card Bronze</title>
+			<link>https://veralogixjoomla.cpdemo.co.za/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=124&amp;name=gift-card-bronze&amp;Itemid=&amp;category_pathway=</link>
+			<guid isPermaLink="true">https://veralogixjoomla.cpdemo.co.za/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=124&amp;name=gift-card-bronze&amp;Itemid=&amp;category_pathway=</guid>
+			<description><![CDATA[<table><tr><td><img src="https://veralogixjoomla.cpdemo.co.za/media/com_hikashop/images/barcode.png"/></td><td><p><img src="https://veralogixjoomla.cpdemo.co.za/images/articles/star.png" alt="" /> With our <strong>Bronze card</strong>, be sure to please !!</p>
+<p>The perfect gift for your loved ones, who will be able to purchase exactly what they want and when they want.</p>
+<p>Add a message to your gift, it will appear on the card, that you will be able to offer in a virtual format or printed.</p>
+<p>This card is available on all our store, for a period of 12 months.<br /> You can use it only once, thanks to your personalized and unique serial number.</p>Price : 10,00 €</td></tr></table>]]></description>
+			<pubDate>Fri, 18 Jul 2014 10:09:31 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gift Card Gold</title>
+			<link>https://veralogixjoomla.cpdemo.co.za/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=123&amp;name=gift-card-gold&amp;Itemid=&amp;category_pathway=</link>
+			<guid isPermaLink="true">https://veralogixjoomla.cpdemo.co.za/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=123&amp;name=gift-card-gold&amp;Itemid=&amp;category_pathway=</guid>
+			<description><![CDATA[<table><tr><td><img src="https://veralogixjoomla.cpdemo.co.za/media/com_hikashop/images/barcode.png"/></td><td><p><img src="https://veralogixjoomla.cpdemo.co.za/images/articles/star.png" alt="" /><img src="https://veralogixjoomla.cpdemo.co.za/images/articles/star.png" alt="" /><img src="https://veralogixjoomla.cpdemo.co.za/images/articles/star.png" alt="" />Â  With our <strong>Gold card</strong>, be sure to please !!</p>
+<p>The perfect gift for your loved ones, who will be able to purchase exactly what they want and when they want.</p>
+<p>Add a message to your gift, it will appear on the card, that you will be able to offer in a virtual format or printed.</p>
+<p>This card is available on all our store, for a period of 12 months.<br /> You can use it only once, thanks to your personalized and unique serial number.</p>Price : 50,00 €</td></tr></table>]]></description>
+			<pubDate>Thu, 03 Jul 2014 15:21:23 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gift Card Silver</title>
+			<link>https://veralogixjoomla.cpdemo.co.za/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=122&amp;name=gift-card-silver&amp;Itemid=&amp;category_pathway=</link>
+			<guid isPermaLink="true">https://veralogixjoomla.cpdemo.co.za/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=122&amp;name=gift-card-silver&amp;Itemid=&amp;category_pathway=</guid>
+			<description><![CDATA[<table><tr><td><img src="https://veralogixjoomla.cpdemo.co.za/media/com_hikashop/images/barcode.png"/></td><td><p><img src="https://veralogixjoomla.cpdemo.co.za/images/articles/star.png" alt="" /><img src="https://veralogixjoomla.cpdemo.co.za/images/articles/star.png" alt="" /> With our <strong>Silver card</strong>, be sure to please !!</p>
+<p>The perfect gift for your loved ones, who will be able to purchase exactly what they want and when they want.</p>
+<p>Add a message to your gift, it will appear on the card, that you will be able to offer in a virtual format or printed.</p>
+<p>This card is available on all our store, for a period of 12 months.<br /> You can use it only once, thanks to your personalized and unique serial number.</p>Price : 20,00 €</td></tr></table>]]></description>
+			<pubDate>Thu, 03 Jul 2014 15:21:07 +0000</pubDate>
+		</item>
+		<item>
+			<title>Lunch box</title>
+			<link>https://veralogixjoomla.cpdemo.co.za/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=121&amp;name=lunch-box&amp;Itemid=&amp;category_pathway=</link>
+			<guid isPermaLink="true">https://veralogixjoomla.cpdemo.co.za/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=121&amp;name=lunch-box&amp;Itemid=&amp;category_pathway=</guid>
+			<description><![CDATA[<table><tr><td><img src="https://veralogixjoomla.cpdemo.co.za/media/com_hikashop/images/barcode.png"/></td><td>Price : 15,00 €</td></tr></table>]]></description>
+			<pubDate>Mon, 30 Jun 2014 13:25:50 +0000</pubDate>
+		</item>
+		<item>
+			<title>Sunday</title>
+			<link>https://veralogixjoomla.cpdemo.co.za/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=120&amp;name=sunday&amp;Itemid=&amp;category_pathway=</link>
+			<guid isPermaLink="true">https://veralogixjoomla.cpdemo.co.za/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=120&amp;name=sunday&amp;Itemid=&amp;category_pathway=</guid>
+			<description><![CDATA[<table><tr><td><img src="https://veralogixjoomla.cpdemo.co.za/media/com_hikashop/images/barcode.png"/></td><td>Price : 50,00 €</td></tr></table>]]></description>
+			<pubDate>Mon, 30 Jun 2014 12:54:09 +0000</pubDate>
+		</item>
+		<item>
+			<title>Saturday</title>
+			<link>https://veralogixjoomla.cpdemo.co.za/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=119&amp;name=saturday&amp;Itemid=&amp;category_pathway=</link>
+			<guid isPermaLink="true">https://veralogixjoomla.cpdemo.co.za/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=119&amp;name=saturday&amp;Itemid=&amp;category_pathway=</guid>
+			<description><![CDATA[<table><tr><td><img src="https://veralogixjoomla.cpdemo.co.za/media/com_hikashop/images/barcode.png"/></td><td>Price : 30,00 €</td></tr></table>]]></description>
+			<pubDate>Mon, 30 Jun 2014 12:53:41 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
