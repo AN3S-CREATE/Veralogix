@@ -15,10 +15,8 @@ def test_links():
         print('Broken links found:')
         for link in broken_links:
             print(link)
-        sys.exit(1)
-    else:
-        print('All links are valid.')
-        sys.exit(0)
+
+    assert not broken_links, f"Broken links found: {broken_links}"
 
 if __name__ == "__main__":
     test_links()
