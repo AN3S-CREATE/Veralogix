@@ -137,7 +137,13 @@ def find_html_files(root: Path) -> Iterable[Path]:
 def process_file(file_path: Path, root: Path, dry_run: bool) -> bool:
     """Process a single HTML file and optionally rewrite it."""
 
-    original_text = file_path.read_text(encoding="utf-8")
+    try:
+        original_text = file_path.read_text(encoding="utf-8")
+    except UnicodeDecodeError as exc:
+        relative_name = normalise_path(str(file_path.relative_to(root)))
+        print(f"Skipping {relative_name}: {exc}", file=sys.stderr)
+        return False
+
     soup = BeautifulSoup(original_text, "html.parser")
 
     recorded_changes: List[Tuple[str, str, str]] = []
